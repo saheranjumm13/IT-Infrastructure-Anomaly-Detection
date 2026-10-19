@@ -1,0 +1,22 @@
+
+# User accounts and credentials
+users.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+
+# Local data - review before sharing
+# Uncomment if you do not want to upload generated data
+# output/
