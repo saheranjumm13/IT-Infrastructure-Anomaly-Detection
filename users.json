@@ -1,0 +1,10 @@
+{
+    "dashboard_viewer": {
+        "password_hash": "$2b$12$r7TLN8BMO5yvoHPVpQxNj.hc2xrniqWSM3ebrAaOLFqtS37ZWJqi6",
+        "role": "viewer"
+    },
+    "project_owner": {
+        "password_hash": "$2b$12$ekkH/LHDDPeNBdk2Gd38f.UZVY1XVvkzebKuzvr1X06YKQ6/jKakG",
+        "role": "owner"
+    }
+}
