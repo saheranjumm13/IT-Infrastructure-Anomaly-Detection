@@ -46,6 +46,7 @@ IT-Infrastructure-Anomaly-Detection/
 ├── create_users.py
 ├── reset_password.py
 ├── users.json
+├── powerbi-dashboard.png
 ├── README.md
 ├── .gitignore
 └── output/
@@ -54,6 +55,15 @@ IT-Infrastructure-Anomaly-Detection/
 ```
 
 The Power BI `.pbix` report can also be included if it contains no sensitive information and is reasonably sized.
+
+
+## 📊 Power BI Dashboard
+
+The dashboard visualizes server performance metrics and highlights
+potential anomalies detected by the Isolation Forest model.
+
+![Power BI Dashboard](powerbi-dashboard.png)
+
 
 ## 🚀 Installation and Setup
 
